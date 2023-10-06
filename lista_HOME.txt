@@ -1,0 +1,10 @@
+Aula_Python_04
+Aulas_Unix_Python
+CEN0336_11244441_P1
+EcoRI.py
+Prova1
+amigos.py
+cen0336
+nano.save
+ola.py
+problemsets
